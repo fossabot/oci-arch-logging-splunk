@@ -19,6 +19,7 @@ Splunk Enterprise administrators can use the Logging and Streaming services with
 ## <a name="oci-config"></a>OCI Configuration 
 ### Step 1: Create a Stream
 ![OCI Stream Setup](./README/images/picture_strm.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvrich-100%2Foci-arch-logging-splunk.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvrich-100%2Foci-arch-logging-splunk?ref=badge_shield)
 
 Refer the screenshot and the points listed below to to create a stream for log data to be written to for Splunk to collect from.
 
@@ -207,3 +208,7 @@ Directions: https://docs.splunk.com/Documentation/AddOns/released/Overview/Singl
 
 ## <a name="resources"></a>Addtional Resources
 - Visualization App for OCI (Oracle Cloud Infrastructure) App for Splunk: [https://splunkbase.splunk.com/app/5289/](https://splunkbase.splunk.com/app/5289/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvrich-100%2Foci-arch-logging-splunk.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvrich-100%2Foci-arch-logging-splunk?ref=badge_large)
